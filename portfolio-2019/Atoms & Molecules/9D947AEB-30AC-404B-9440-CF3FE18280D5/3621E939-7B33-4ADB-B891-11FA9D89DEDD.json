@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3621E939-7B33-4ADB-B891-11FA9D89DEDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4668A4E6-123A-4379-805A-C5F160A642B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "37A55487-FE9F-405B-B7FD-6162EDD334B6",
+    "height": 33,
+    "width": 118,
+    "x": 575,
+    "y": -1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header/Atom/Nav-Item Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE6776A5-840F-4421-95D3-A4025A920D0F",
+      "overrideName": "91ABE126-D425-4592-9396-90A7FD022172_stringValue",
+      "value": "Contact"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADB3841B-1F29-41AF-A073-6799F10CB6E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1706359F-FEE0-4A0B-A4C6-715F80E13945",
+  "verticalSpacing": 0
+}

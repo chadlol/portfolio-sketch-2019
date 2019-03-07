@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "67F8569B-CBDC-4287-A7C6-7F6A069EEC30",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1865,
+  "clippingMaskMode": 0,
+  "do_objectID": "45EC5C67-7E34-45C3-BA8A-399426339F86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F64B8B4C-303A-4E04-B8D5-9250346955AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF4F6D32-6582-4DC1-BC0E-7E8D8AB281AB",
+    "height": 45,
+    "width": 238,
+    "x": 884,
+    "y": 82
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A0B9F2FD-F648-4556-8018-15CE6966A58D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6632CD59-0DAC-4D3F-B3FB-EB7F17C54EA6"
+    }
+  ],
+  "name": "Typography/Header 2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83AE5D61-3F05-49E1-8319-38C4E63B4E27",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A4095F3B-144B-4D51-B91E-A0690E07D27B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "315ED648-6A26-4987-B4AC-D6DE351BA1CF",
+    "guides": [
+    ]
+  }
+}

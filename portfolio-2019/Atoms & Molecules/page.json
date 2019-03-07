@@ -1,0 +1,99 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1042EDE2-DFE3-4746-8835-ACDA7D694E88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -413,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "1FDB5205-D805-4456-9045-AF5D7D7C0157"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8CE35A29-372B-4F0D-8C6F-E657C45634DE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "13F6A264-ABC8-4276-9F04-169F9CE08085"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7DF785EA-0A41-4F17-A28E-7FE6441099E5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9D947AEB-30AC-404B-9440-CF3FE18280D5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3753088F-EBDF-4290-84C0-CB2886A89FFD"
+    },
+    {
+      "class": "text",
+      "id": "30091D31-16F9-4B73-AFDB-036933CDF476"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "45EC5C67-7E34-45C3-BA8A-399426339F86"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DD52B905-BC28-4EB1-B46A-CD121F5F3047"
+    },
+    {
+      "class": "text",
+      "id": "ECA32B71-B58B-4577-B682-B36718E91417"
+    }
+  ],
+  "name": "Atoms & Molecules",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -363,
+    "guides": [
+    ]
+  }
+}

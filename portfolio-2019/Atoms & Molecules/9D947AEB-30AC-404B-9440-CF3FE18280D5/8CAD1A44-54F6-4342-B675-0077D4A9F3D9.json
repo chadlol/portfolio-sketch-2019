@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CAD1A44-54F6-4342-B675-0077D4A9F3D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE8C1C10-7B58-425B-8DCD-27A6EE89A6BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC111595-0E3D-44F6-A387-926F31AB4E42",
+    "height": 33,
+    "width": 118,
+    "x": 288,
+    "y": -1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Header/Atom/Nav-Item Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DE6776A5-840F-4421-95D3-A4025A920D0F",
+      "overrideName": "91ABE126-D425-4592-9396-90A7FD022172_stringValue",
+      "value": "About"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1A82938-50A4-456F-B9AC-DC750B97D6A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1706359F-FEE0-4A0B-A4C6-715F80E13945",
+  "verticalSpacing": 0
+}
