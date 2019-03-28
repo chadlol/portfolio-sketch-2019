@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D73E30D2-0053-49B9-93BD-766EE2D03DD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "627F8F3F-08CB-4464-9CA9-A1E6A53A4B60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDF97DBD-E226-4D6C-8650-F51F34888E7A",
+    "height": 60,
+    "width": 150,
+    "x": 310,
+    "y": 215
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons/Button-1 Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5FBAC91-AC7F-4282-BE9A-1469F6A10773",
+      "overrideName": "30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "View Site"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D8E8097-4DBF-47DB-84EC-03DA096DEB2E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82884B4D-31D2-40E3-A1AE-F4C4647EB79B",
+  "verticalSpacing": 0
+}

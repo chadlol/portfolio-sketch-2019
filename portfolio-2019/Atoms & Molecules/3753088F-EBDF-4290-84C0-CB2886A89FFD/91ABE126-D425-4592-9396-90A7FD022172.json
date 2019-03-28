@@ -16,10 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FuturaPT-Bold",
+              "name": "Heebo-Regular",
               "size": 24
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 1.666667,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -52,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AF0C1608-502B-420D-BE33-CE218E8D4817",
-    "height": 31,
-    "width": 117,
-    "x": 0.5,
+    "height": 35,
+    "width": 122,
+    "x": 1,
     "y": 1
   },
-  "glyphBounds": "{{1, 7}, {113, 18}}",
+  "glyphBounds": "{{1, 7}, {118, 18}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -71,6 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 360,
+  "sharedStyleID": "9622FAC3-9839-41EC-AB4C-BA6FDEF29C6C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -80,7 +82,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F93FF2AC-CD8D-43EC-8007-E5DFB9C7440D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,10 +93,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FuturaPT-Bold",
+            "name": "Heebo-Regular",
             "size": 24
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1.666667,
         "paragraphStyle": {
           "_class": "paragraphStyle",

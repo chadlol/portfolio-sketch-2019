@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AA1C1BF-707F-427E-9A27-7CFF1C50A2CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E0C16E6-7A5F-4D0D-BB69-CEC8085374AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1DE330E8-2519-48BC-9BAD-E9DE5CD80CE6",
+    "height": 32,
+    "width": 32,
+    "x": 268,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "21F37DE6-2A6B-4473-893A-E82198742969"
+    },
+    {
+      "class": "rectangle",
+      "id": "1FB3EEA3-3004-48C4-B3B2-8F67F0EC8F56"
+    }
+  ],
+  "name": "mdi-linkedin",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A192308-E88F-4695-927B-4F275FDB970D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

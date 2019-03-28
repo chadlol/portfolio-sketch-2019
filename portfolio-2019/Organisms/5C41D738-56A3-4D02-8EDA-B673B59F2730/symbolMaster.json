@@ -1,0 +1,110 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C4EB0DF3-0F05-45CB-BC55-01C1EF38AC15",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 18526,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C41D738-56A3-4D02-8EDA-B673B59F2730",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BE5125A-201B-416C-958B-E7EB1FDE02E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2D7F77C0-5B90-4965-90C8-1266E4CADF37",
+    "height": 554,
+    "width": 1440,
+    "x": 100,
+    "y": 4924
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "32545CAB-BAC4-4738-BAF0-9121C36B3E9A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "45DB89B2-E36A-418F-A56B-C1E91C604EC4"
+    },
+    {
+      "class": "group",
+      "id": "1FDC7CAC-2AFF-4A8A-B6CD-1DFE65307647"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94C211FC-5330-4D76-8F65-E8B8BB87EF76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A0DE0D0-387C-43F2-B440-473CD76A090A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Organism/Contact",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7356AB36-4674-4183-8131-28B644333EFE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A318F25-5663-4C50-A65C-86F122C03BE0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5EA43145-FE54-4B85-A660-8B959E1D1F0D",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FB133B1D-C6B5-4348-8029-0A071DDB0BF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF33176C-33E3-4F7D-ABCC-7E727BF6EC9C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4AB2785-5F69-4855-9142-B917BBC3E6E9",
+    "height": 385,
+    "width": 262,
+    "x": 29,
+    "y": 915
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Work Highlight Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3FB95C98-58E6-4A17-8C5C-CE5C74AC6E66",
+      "overrideName": "FABCB6E2-58EA-4D63-ADF6-DC0182A26CD5_stringValue",
+      "value": "Trails App Login"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4844A228-CDC2-40C6-9854-B3682390F75A",
+      "overrideName": "7E66761A-E787-480B-A08A-E8B913642969_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2ad8d755b4e8f15d129906a89cd029638b6782e3.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31232F53-72E2-466F-942D-892DE15D6A68",
+      "overrideName": "CDFAFFB8-6749-49E3-95DE-19E88BB8737A/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78AFB5A0-1FBA-42C3-9B51-DA3F8D58B375",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9DEB9E3-79BD-4481-9DCE-62A3F3CFC1D7",
+  "verticalSpacing": 0
+}

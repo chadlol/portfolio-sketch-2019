@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "91840254-410C-4DC4-B739-FE731173F0C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "86012788-BD12-43C0-A63F-2903BABE6D9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C6BEC2DA-8F23-452A-BB9E-BCF71CD84DDE",
+    "height": 24,
+    "width": 24,
+    "x": 59.5,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47A3E2FD-A1F9-4AAF-B091-D4AABB08B0CA"
+    },
+    {
+      "class": "rectangle",
+      "id": "6FC950D5-6AA3-4E71-903D-E9D61251C654"
+    }
+  ],
+  "name": "mdi-dribbble",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA1E5E5D-CA85-45D1-AF21-593B643EA8BD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

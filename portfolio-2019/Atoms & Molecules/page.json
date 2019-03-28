@@ -42,7 +42,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "22BE3C2C-69A4-4C8E-8B88-8BC4A882A9FE"
+    },
+    {
+      "class": "symbolMaster",
       "id": "8CE35A29-372B-4F0D-8C6F-E657C45634DE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E6924C9A-FD51-453E-84D0-FCACCDB83170"
     },
     {
       "class": "symbolMaster",
@@ -61,20 +69,88 @@
       "id": "3753088F-EBDF-4290-84C0-CB2886A89FFD"
     },
     {
-      "class": "text",
-      "id": "30091D31-16F9-4B73-AFDB-036933CDF476"
+      "class": "symbolMaster",
+      "id": "45EC5C67-7E34-45C3-BA8A-399426339F86"
     },
     {
       "class": "symbolMaster",
-      "id": "45EC5C67-7E34-45C3-BA8A-399426339F86"
+      "id": "77ED9AC6-0411-4DB7-9DDC-E8EAC116DDB1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BC4E7473-1625-4681-9BD9-0204F91E93DF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EAA70B05-4D5C-43C4-BD78-5333638D4F3C"
     },
     {
       "class": "symbolMaster",
       "id": "DD52B905-BC28-4EB1-B46A-CD121F5F3047"
     },
     {
+      "class": "symbolMaster",
+      "id": "8B9B774A-A3D2-4C2D-937F-1D6C93829A36"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C13BA019-A96B-4B49-9E2F-D1079735CFCF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "916D6D9C-298C-4D60-ABE0-5ABB5E6C6571"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "39042899-147B-4F7F-AB96-0E751BB41255"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "65EBCE3F-7EB3-431E-B6B5-4B8B7C9B0A23"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9FF1B32A-BCB0-4E1C-9B9E-09243CBEC831"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5AA761AA-90EB-4E56-87DD-29D648244110"
+    },
+    {
+      "class": "text",
+      "id": "30091D31-16F9-4B73-AFDB-036933CDF476"
+    },
+    {
+      "class": "text",
+      "id": "F7A82343-4DDE-4B30-9DC8-F74DC481471F"
+    },
+    {
+      "class": "text",
+      "id": "33C24D6A-3940-4082-B388-5EAA8367EC9C"
+    },
+    {
+      "class": "text",
+      "id": "04FAE707-9BD4-4E54-A214-EC0579918F67"
+    },
+    {
       "class": "text",
       "id": "ECA32B71-B58B-4577-B682-B36718E91417"
+    },
+    {
+      "class": "text",
+      "id": "578BD432-AAC7-4BD0-868E-4A111080B25F"
+    },
+    {
+      "class": "text",
+      "id": "9D65C6C0-2DAC-4184-B9D5-8D56CCCE6759"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E964F36C-8278-4C51-A5B1-7FD11EA9C968"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0506071E-4E1C-4532-9BE0-1BB0D1B134C3"
     }
   ],
   "name": "Atoms & Molecules",

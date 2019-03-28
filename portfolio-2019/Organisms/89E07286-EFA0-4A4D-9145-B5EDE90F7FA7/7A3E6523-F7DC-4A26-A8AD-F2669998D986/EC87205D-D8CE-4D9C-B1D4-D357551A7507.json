@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC87205D-D8CE-4D9C-B1D4-D357551A7507",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 543,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Typography/Header 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3662AC4E-1C00-4FBE-B0B7-BFDE4F768D12",
+      "overrideName": "FFF42009-2DC4-4FB3-9E00-1DDCA5BBF6F1_textStyle",
+      "value": "C52260AA-E31D-45E7-BCC1-54F10F88F344"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD0877A1-20CF-45BF-82EA-00534EAA4D4B",
+      "overrideName": "FFF42009-2DC4-4FB3-9E00-1DDCA5BBF6F1_stringValue",
+      "value": "View more of my work"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C06E4FFB-2C5B-4C89-839C-7DB43EFDE1BA",
+  "verticalSpacing": 0
+}

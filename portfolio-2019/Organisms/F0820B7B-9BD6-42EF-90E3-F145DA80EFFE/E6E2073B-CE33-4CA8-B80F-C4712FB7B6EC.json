@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6E2073B-CE33-4CA8-B80F-C4712FB7B6EC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C72A9719-E4B7-4016-9A3C-87977507D2AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C6D5E726-D402-45B7-93E1-32502D4BB6E6",
+    "height": 385,
+    "width": 262,
+    "x": 29,
+    "y": 1320
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Work Highlight Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "585E653C-3852-4827-BFC2-5CF56DA5B047",
+      "overrideName": "FABCB6E2-58EA-4D63-ADF6-DC0182A26CD5_stringValue",
+      "value": "Joe Rogan Posterization"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F07AE3CF-141F-4A6A-8F16-97D55ECFAFFB",
+      "overrideName": "7E66761A-E787-480B-A08A-E8B913642969_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/007b5ec8e6f9551f7d5515558722def29c7fe256.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A23C992-1252-46AF-9266-C121187C791F",
+      "overrideName": "CDFAFFB8-6749-49E3-95DE-19E88BB8737A/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EC7D822-A082-481E-8A05-233892E1EA77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9DEB9E3-79BD-4481-9DCE-62A3F3CFC1D7",
+  "verticalSpacing": 0
+}

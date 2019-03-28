@@ -16,12 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FuturaPT-Bold",
+              "name": "Heebo-Black",
               "size": 48
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 3.333333,
+          "kerning": 3,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -30,8 +30,38 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 7,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Heebo-Black",
+              "size": 48
+            }
+          },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2,
+            "maximumLineHeight": 45,
+            "minimumLineHeight": 45
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 7
       }
     ],
     "string": "Header 1"
@@ -60,7 +90,7 @@
     "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{5, 6}, {159, 79}}",
+  "glyphBounds": "{{4, 3}, {161, 80}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,6 +104,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "C9F48A85-0C40-457B-9C2C-25709C656D3B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,7 +114,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "CE8762CB-F7E9-4C11-BA0A-822B13101AB6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,12 +125,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FuturaPT-Bold",
+            "name": "Heebo-Black",
             "size": 48
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 3.333333,
+        "kerning": 3,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

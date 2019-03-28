@@ -16,10 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FuturaPT-Bold",
+              "name": "Heebo-Black",
               "size": 24
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
           "kerning": 1.666667,
           "paragraphStyle": {
             "_class": "paragraphStyle",
@@ -50,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 31,
-    "width": 251,
-    "x": -110,
-    "y": 110
+    "height": 35,
+    "width": 296,
+    "x": -129.5,
+    "y": 131
   },
-  "glyphBounds": "{{0, 6}, {248, 24}}",
+  "glyphBounds": "{{0, 7}, {293, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,10 +89,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FuturaPT-Bold",
+            "name": "Heebo-Black",
             "size": 24
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
         "kerning": 1.666667,
         "paragraphStyle": {
           "_class": "paragraphStyle",

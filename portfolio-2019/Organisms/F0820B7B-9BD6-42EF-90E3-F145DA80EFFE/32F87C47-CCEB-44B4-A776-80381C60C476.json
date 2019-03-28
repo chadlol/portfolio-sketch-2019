@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32F87C47-CCEB-44B4-A776-80381C60C476",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "664725B5-1101-41D2-AB48-339EB9A2B6FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C637B407-DE53-4B11-B082-3930FE4F58BE",
+    "height": 385,
+    "width": 262,
+    "x": 29,
+    "y": 510
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Work Highlight Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A451BC00-C72D-48BB-A1FB-0E0BA774D167",
+      "overrideName": "FABCB6E2-58EA-4D63-ADF6-DC0182A26CD5_stringValue",
+      "value": "EWU VCD Site Redesign"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D263D520-782A-4ABF-B0B9-35B31AE199A5",
+      "overrideName": "7E66761A-E787-480B-A08A-E8B913642969_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/02468b4eb6e6153ddead087bfd571f16610a3d11.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36D3688E-5708-4D4D-9A6D-B6F92FF89F9F",
+      "overrideName": "CDFAFFB8-6749-49E3-95DE-19E88BB8737A/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C7CAC26-E681-4B79-A72B-1D9FA0E36161",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9DEB9E3-79BD-4481-9DCE-62A3F3CFC1D7",
+  "verticalSpacing": 0
+}

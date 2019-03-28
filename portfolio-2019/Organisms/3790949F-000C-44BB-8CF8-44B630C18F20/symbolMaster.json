@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5440,
+  "changeIdentifier": 20627,
   "clippingMaskMode": 0,
   "do_objectID": "3790949F-000C-44BB-8CF8-44B630C18F20",
   "exportOptions": {
@@ -50,7 +50,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "D2728AB4-061C-43B9-996A-048F202F8530"
+      "id": "DD3C7CBB-4924-4E03-933F-9227C9B03CB5"
     },
     {
       "class": "symbolInstance",
@@ -71,6 +71,14 @@
     {
       "class": "symbolInstance",
       "id": "6B8CC2B9-3AAE-4496-B670-E4B951655297"
+    },
+    {
+      "class": "group",
+      "id": "60E80652-32F5-4346-8D6B-48DA8259B572"
+    },
+    {
+      "class": "group",
+      "id": "D653E53F-B340-4281-9B50-5CB6140E184A"
     }
   ],
   "layout": {
@@ -88,7 +96,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Header/Header",
+  "name": "Organism/Header",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

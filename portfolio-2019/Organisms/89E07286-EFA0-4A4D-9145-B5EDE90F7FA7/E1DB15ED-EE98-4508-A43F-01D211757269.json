@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1DB15ED-EE98-4508-A43F-01D211757269",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 940,
+    "x": 250,
+    "y": 615
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "About/Work Highlight Right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "298D0C34-F41A-4C6B-97B1-B52E972E4673",
+      "overrideName": "8C8B1F64-8EB8-4944-B751-02D266E1CDCB/9FE07746-8F3B-401E-9F4B-5B68F690B86C_stringValue",
+      "value": "EWU VCD Site Redesign"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8237BA6-4AD5-41FC-BDF3-42DA4A038F8C",
+      "overrideName": "4B8FD5C7-C4A2-44FD-BA89-64366E8C2CE9_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/02468b4eb6e6153ddead087bfd571f16610a3d11.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D1FFBC9-DE59-4FB8-999E-22A81158F0AC",
+      "overrideName": "D73E30D2-0053-49B9-93BD-766EE2D03DD6/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3CA5AE21-5C9D-4DD1-A322-53DA12A13368",
+  "verticalSpacing": 0
+}

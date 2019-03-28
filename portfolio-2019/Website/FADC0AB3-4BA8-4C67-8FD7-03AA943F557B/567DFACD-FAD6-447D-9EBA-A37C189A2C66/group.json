@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "567DFACD-FAD6-447D-9EBA-A37C189A2C66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "256001A0-C8C8-42AB-81C7-F2EB1A4541F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76BE19D2-551E-43B0-BF85-2B1076DC0066",
+    "height": 947,
+    "width": 584,
+    "x": 1063,
+    "y": 2862
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D2084B85-8DF3-46A7-9C73-95E4A96D2685"
+    },
+    {
+      "class": "bitmap",
+      "id": "49D4D972-77A3-423E-BAE3-30B4DACDB749"
+    }
+  ],
+  "name": "doodles003 copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FAD993F0-5A97-4ED3-96D7-5AC50B15E951",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

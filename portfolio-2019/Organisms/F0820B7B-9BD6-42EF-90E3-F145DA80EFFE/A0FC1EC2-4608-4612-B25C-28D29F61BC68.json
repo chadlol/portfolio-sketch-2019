@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0FC1EC2-4608-4612-B25C-28D29F61BC68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 385,
+    "width": 262,
+    "x": 29,
+    "y": 105
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Work Highlight",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC20E4A5-6E0B-4AE4-B218-AB519370A002",
+      "overrideName": "FABCB6E2-58EA-4D63-ADF6-DC0182A26CD5_stringValue",
+      "value": "EWU.EDU Redesign"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A4F26267-D04D-402C-8A18-DEECBE77FC05",
+      "overrideName": "CDFAFFB8-6749-49E3-95DE-19E88BB8737A/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9DEB9E3-79BD-4481-9DCE-62A3F3CFC1D7",
+  "verticalSpacing": 0
+}

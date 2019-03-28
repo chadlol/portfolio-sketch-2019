@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 201,
-    "width": 24,
+    "height": 300,
+    "width": 32,
     "x": 1346,
-    "y": 406
+    "y": 362
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -26,7 +26,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "Atoms/Social-Side",
   "nameIsFixed": false,

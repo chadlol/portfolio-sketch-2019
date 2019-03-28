@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FC830187-B2EA-4A8D-8E00-EC50CEBC97B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FEBB516-2C8D-41D3-A776-760B13AD4B58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00638FB2-CE0F-4B8A-A4A3-47E2DC837A10",
+    "height": 25,
+    "width": 300,
+    "x": 0,
+    "y": 45
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Contact/Contact Field Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA167DD2-2106-4ED3-A01C-30F70C20D96C",
+      "overrideName": "6EE79F66-4BEF-4E2D-9BF7-1AAB240C2CC9_stringValue",
+      "value": "Email"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E0D52CE-CD04-421B-87B8-9685D5E39A3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9531B869-B9D5-454F-858A-0269F8BAB43C",
+  "verticalSpacing": 0
+}

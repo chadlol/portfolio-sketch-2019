@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "46255842-36E3-4CD3-9686-61202D65206A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 488,
+  "clippingMaskMode": 0,
+  "do_objectID": "C13BA019-A96B-4B49-9E2F-D1079735CFCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A652AAF9-DCC0-4302-B853-A777FA6CC773",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "007A8E13-6068-4E81-9F47-77B92F206F3D",
+    "height": 60,
+    "width": 300,
+    "x": 269,
+    "y": -4
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4FCC7589-3C08-43F1-8A27-F30FC66D9380",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D6888892-C96E-4CCD-BBC2-6A434C5EB73D"
+    }
+  ],
+  "name": "Buttons/Button-2",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3604A1EE-7F95-4217-B85C-E865BC235B26",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4D7BB5F8-1FDA-4AEA-8985-C5F35850D61F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ACA9ED72-0F4C-4C52-BE89-02056E4D5D3E",
+    "guides": [
+    ]
+  }
+}

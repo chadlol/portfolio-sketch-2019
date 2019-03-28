@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "37544F25-105A-4D43-91EA-487DAE3ADBCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 940,
+    "x": 250,
+    "y": 1815
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "About/Work Highlight Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D94EAF99-CD47-47B9-BC6D-B61DDF4D5BFD",
+      "overrideName": "2C513DDD-0B8A-4721-9C16-A6CD1196E7BF/9FE07746-8F3B-401E-9F4B-5B68F690B86C_stringValue",
+      "value": "FMA-R"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9481C0F-F0F1-4742-A46A-D3973E5D5585",
+      "overrideName": "4B9F5032-DF69-4458-AFA1-ABFBE4790A12_stringValue",
+      "value": "A personal project that utilized the freemusicarchive.com API and AJAX to randomly select and play songs from their massive license free libarary."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E12212F3-AB51-4ABB-9149-9FD4041E3AAC",
+      "overrideName": "0C9E3868-0B06-4407-B485-488BD26083BF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d1ef68c6e4012001495f63b9fffb43ff9e9e8b06.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07C860D9-D627-4388-9450-C3B10638B0BB",
+      "overrideName": "790518BE-B269-486C-91F9-41482B43F623/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8782BEFD-F370-4CE4-B890-B88694484441",
+  "verticalSpacing": 0
+}

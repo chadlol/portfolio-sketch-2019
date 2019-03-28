@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFF2C1CC-1BCE-44DC-BC4C-B6C4B2DE355F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 452,
+    "x": 0,
+    "y": 24
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "Typography/Header 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD9711B0-2009-4BAC-88D1-720A16C7A096",
+      "overrideName": "6632CD59-0DAC-4D3F-B3FB-EB7F17C54EA6_textStyle",
+      "value": "ACFD2D3D-07F4-4DE4-902F-7FE0F864BF5F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83943136-DE23-4A2C-9BB2-EE655E5BE028",
+      "overrideName": "6632CD59-0DAC-4D3F-B3FB-EB7F17C54EA6_stringValue",
+      "value": "chadohl@gmail.com"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A4095F3B-144B-4D51-B91E-A0690E07D27B",
+  "verticalSpacing": 0
+}

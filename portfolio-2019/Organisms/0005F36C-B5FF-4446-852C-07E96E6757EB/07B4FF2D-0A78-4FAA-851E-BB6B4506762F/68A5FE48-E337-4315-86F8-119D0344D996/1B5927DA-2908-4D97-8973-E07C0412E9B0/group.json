@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B5927DA-2908-4D97-8973-E07C0412E9B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDF967A7-178F-48AF-9073-521CD1882B03",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B3F1E1B0-0E7B-4848-8E1E-68685A5EE339",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE7CD971-68FC-4EF1-962A-27842BEDF911"
+    },
+    {
+      "class": "rectangle",
+      "id": "D64FDB8F-8FC4-49A3-B6E6-98444E51EB9A"
+    }
+  ],
+  "name": "mdi-instagram",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF626943-B9F5-4FC9-8E68-D3F7C4625D5A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

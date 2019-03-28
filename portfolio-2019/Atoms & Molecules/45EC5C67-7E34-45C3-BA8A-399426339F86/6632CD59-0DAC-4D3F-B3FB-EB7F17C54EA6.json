@@ -16,12 +16,12 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FuturaPT-Medium",
-              "size": 48
+              "name": "Heebo-Black",
+              "size": 32
             }
           },
           "MSAttributedStringTextTransformAttribute": 1,
-          "kerning": 3.333333,
+          "kerning": 5,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
@@ -60,7 +60,7 @@
     "x": 0.5,
     "y": 0
   },
-  "glyphBounds": "{{6, 5}, {222, 35}}",
+  "glyphBounds": "{{25, 9}, {182, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -74,6 +74,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "F8CDB260-1052-4EC5-A4CC-C119AE655D22",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -83,7 +84,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "DFAE6B42-F285-4ECC-8712-5994AF706DFE",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,12 +95,12 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FuturaPT-Medium",
-            "size": 48
+            "name": "Heebo-Black",
+            "size": 32
           }
         },
         "MSAttributedStringTextTransformAttribute": 1,
-        "kerning": 3.333333,
+        "kerning": 5,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,

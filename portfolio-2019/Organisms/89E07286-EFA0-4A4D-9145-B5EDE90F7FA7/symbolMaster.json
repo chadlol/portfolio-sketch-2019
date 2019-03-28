@@ -1,0 +1,124 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 25478,
+  "clippingMaskMode": 0,
+  "do_objectID": "89E07286-EFA0-4A4D-9145-B5EDE90F7FA7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2485,
+    "width": 1440,
+    "x": 100,
+    "y": 1235
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "13022297-648D-4326-9005-448F4FBBB65D"
+    },
+    {
+      "class": "group",
+      "id": "7A3E6523-F7DC-4A26-A8AD-F2669998D986"
+    },
+    {
+      "class": "rectangle",
+      "id": "8A295CEB-BAC2-4AB8-8AFF-399AFDC23E83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37544F25-105A-4D43-91EA-487DAE3ADBCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82D6ABF7-7D4C-4D07-BD1F-8B2C25C22517"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADBFE1D7-900D-4F30-A354-D2E36D93F509"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1DB15ED-EE98-4508-A43F-01D211757269"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9CBB2788-1A1C-475B-B85D-8DEBAC255DC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A42B9383-2C92-4CAD-A2BB-BCACA653F92B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "Organism/Work",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE8A8C22-1A4E-48E6-A389-2B3D1DAF3CC5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

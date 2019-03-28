@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CBB2788-1A1C-475B-B85D-8DEBAC255DC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 940,
+    "x": 250,
+    "y": 215
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "About/Work Highlight Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80C6E421-DE9D-48F3-8D2A-2F62708A7A8E",
+      "overrideName": "2C513DDD-0B8A-4721-9C16-A6CD1196E7BF/9FE07746-8F3B-401E-9F4B-5B68F690B86C_stringValue",
+      "value": "EWU.EDU Redesign"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "017E7D86-2A36-430E-99CC-6AFA4E851F97",
+      "overrideName": "0C9E3868-0B06-4407-B485-488BD26083BF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/14eddbcc6377c9be0b857ff918ef271fa2eae2b4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DB2CCD3-CCF9-4201-85AB-E152E958FA7E",
+      "overrideName": "4B9F5032-DF69-4458-AFA1-ABFBE4790A12_stringValue",
+      "value": "For the 2018 EWU site redesign I assisted in carrying out design and code changes on the front and back end of the Wordpress theme. Additionally, I have conducted mateinence and support in terms of browser testing, accessibility, and performance."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A344AA0-5E14-4B60-8FA9-9CF1E608B4AA",
+      "overrideName": "790518BE-B269-486C-91F9-41482B43F623/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8782BEFD-F370-4CE4-B890-B88694484441",
+  "verticalSpacing": 0
+}

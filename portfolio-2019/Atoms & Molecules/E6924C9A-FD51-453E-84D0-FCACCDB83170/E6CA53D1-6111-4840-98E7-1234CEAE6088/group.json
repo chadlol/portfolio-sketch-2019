@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6CA53D1-6111-4840-98E7-1234CEAE6088",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C414628-4183-4B44-BFD0-884F7135A7B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "55E1297E-0245-49B3-A596-BF1D7D1591E3",
+    "height": 32,
+    "width": 32,
+    "x": 134,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FD8B9A72-A4E0-42C2-8185-ACA977C1018A"
+    },
+    {
+      "class": "rectangle",
+      "id": "98DA8F41-6501-44B3-8D57-B5359E2BB993"
+    }
+  ],
+  "name": "ant-design:github",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EA5DA8F0-884C-4C61-8D0B-ACA1E8FEF8D1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.625,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5DF49126-ACDA-4177-9222-DD7AF4B05AFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

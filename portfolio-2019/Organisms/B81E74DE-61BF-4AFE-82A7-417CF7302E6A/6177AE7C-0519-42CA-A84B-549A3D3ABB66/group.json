@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6177AE7C-0519-42CA-A84B-549A3D3ABB66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32E4130C-C4A1-425E-9BF7-11C8D05FEA68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9374A773-E922-4C9B-8520-512B828117EB",
+    "height": 32,
+    "width": 32,
+    "x": 268,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "59AEB4EF-A305-4759-ACF4-081987B34EEE"
+    },
+    {
+      "class": "rectangle",
+      "id": "457DF21D-58CE-4528-8DC3-B4B2F4DC27DB"
+    }
+  ],
+  "name": "mdi-close",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2E9F938-4372-44DA-A0A0-736823AEE854",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

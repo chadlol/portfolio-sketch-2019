@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD57FB05-80F8-4699-A0A3-16D35B615008",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5841696-7F71-45D3-B9EB-FAF83CEDC8B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F45C23A-DA5F-479D-9E34-2F7AF854B7B1",
+    "height": 385,
+    "width": 262,
+    "x": 29,
+    "y": 1725
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Work Highlight Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3B2FD36E-16F2-465A-9FDB-A8355E5D75DE",
+      "overrideName": "FABCB6E2-58EA-4D63-ADF6-DC0182A26CD5_stringValue",
+      "value": "FMA-R"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CEF75CA-FA0A-4F0C-A5A4-877FA7FB3E1F",
+      "overrideName": "7E66761A-E787-480B-A08A-E8B913642969_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d1ef68c6e4012001495f63b9fffb43ff9e9e8b06.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02BCCCD1-A4CE-48E8-B22B-0478FA03AA59",
+      "overrideName": "CDFAFFB8-6749-49E3-95DE-19E88BB8737A/30D574D2-2BA1-47E2-A09E-7B7909313E4F_stringValue",
+      "value": "More Info"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAFA4B33-5807-43CD-8395-CB5DCC322218",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B9DEB9E3-79BD-4481-9DCE-62A3F3CFC1D7",
+  "verticalSpacing": 0
+}

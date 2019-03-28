@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 251,
-    "width": 31,
-    "x": 70,
-    "y": 406
+    "height": 297,
+    "width": 37,
+    "x": 68,
+    "y": 364
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -26,7 +26,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "name": "Header/Atom/Email-Side",
   "nameIsFixed": false,

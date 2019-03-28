@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A59C5739-434F-4B0D-8F49-BEB9958BC20E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3036,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAA70B05-4D5C-43C4-BD78-5333638D4F3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "43282C6E-15D1-4A75-9950-6C4B251A8385",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54E64E8C-E8DE-497C-8C9B-3F3B071DC2E5",
+    "height": 45,
+    "width": 237,
+    "x": 885,
+    "y": 173
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AC6735CD-5234-492D-951F-AD12A3AE3496",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9FE07746-8F3B-401E-9F4B-5B68F690B86C"
+    }
+  ],
+  "name": "Typography/Header 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C734DEB4-D59F-4228-9889-E5CFCCD7D73F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "683CA066-904A-40D4-8B95-1E2D4EBC48B0",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1ACFA2B3-D960-474D-A9A9-3ADF8FFE5038",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F853C808-6B3E-4B33-9A22-6E2A03F25AAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A07B164E-A74C-43F0-B31F-B571D055E08C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5AA16FC2-4CC3-4F58-8055-F734A56C81AC",
+    "height": 32,
+    "width": 32,
+    "x": 201,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1EC6B56A-600A-4F39-B372-51D013EB34BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "3DDF52CF-7881-4119-A7AA-F78167AD6857"
+    }
+  ],
+  "name": "ant-design:gitlab-outline",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "900F8E79-116A-4277-A203-3653ED5CC991",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.625,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "E712566D-4716-4262-B692-76F1C9BA89BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
